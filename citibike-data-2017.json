@@ -1,0 +1,2312 @@
+[
+    {
+      "timestamp_start": "12/23/2017 10:03:37 PM",
+      "timestamp_end": "12/23/2017 10:45:10 PM",
+      "station_start": "E 11 St & 1 Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "41 min 33 s"
+    },
+    {
+      "timestamp_start": "12/23/2017 3:15:23 PM",
+      "timestamp_end": "12/23/2017 3:43:46 PM",
+      "station_start": "W 70 St & Amsterdam Ave",
+      "station_end": "E 11 St & 1 Ave",
+      "timestamp_duration": "28 min 23 s"
+    },
+    {
+      "timestamp_start": "12/23/2017 2:02:24 AM",
+      "timestamp_end": "12/23/2017 2:20:56 AM",
+      "station_start": "W 53 St & 10 Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "18 min 32 s"
+    },
+    {
+      "timestamp_start": "12/22/2017 10:23:23 PM",
+      "timestamp_end": "12/22/2017 10:36:18 PM",
+      "station_start": "Columbus Ave & W 95 St",
+      "station_end": "W 52 St & 9 Ave",
+      "timestamp_duration": "12 min 55 s"
+    },
+    {
+      "timestamp_start": "12/21/2017 5:56:08 PM",
+      "timestamp_end": "12/21/2017 6:13:55 PM",
+      "station_start": "W 11 St & 6 Ave",
+      "station_end": "6 Ave & W 33 St",
+      "timestamp_duration": "17 min 47 s"
+    },
+    {
+      "timestamp_start": "12/21/2017 4:11:54 PM",
+      "timestamp_end": "12/21/2017 4:21:17 PM",
+      "station_start": "University Pl & E 14 St",
+      "station_end": "St Marks Pl & 2 Ave",
+      "timestamp_duration": "9 min 23 s"
+    },
+    {
+      "timestamp_start": "12/21/2017 2:16:06 PM",
+      "timestamp_end": "12/21/2017 2:52:16 PM",
+      "station_start": "Amsterdam Ave & W 119 St",
+      "station_end": "Sullivan St & Washington Sq",
+      "timestamp_duration": "36 min 10 s"
+    },
+    {
+      "timestamp_start": "12/20/2017 2:06:23 PM",
+      "timestamp_end": "12/20/2017 2:13:35 PM",
+      "station_start": "Amsterdam Ave & W 119 St",
+      "station_end": "Columbus Ave & W 95 St",
+      "timestamp_duration": "7 min 12 s"
+    },
+    {
+      "timestamp_start": "12/18/2017 6:01:02 PM",
+      "timestamp_end": "12/18/2017 6:30:25 PM",
+      "station_start": "W 116 St & Amsterdam Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "29 min 23 s"
+    },
+    {
+      "timestamp_start": "12/17/2017 12:01:20 PM",
+      "timestamp_end": "12/17/2017 12:10:46 PM",
+      "station_start": "Columbus Ave & W 95 St",
+      "station_end": "Cathedral Pkwy & Broadway",
+      "timestamp_duration": "9 min 26 s"
+    },
+    {
+      "timestamp_start": "12/17/2017 7:58:07 AM",
+      "timestamp_end": "12/17/2017 8:22:04 AM",
+      "station_start": "E 60 St & York Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "23 min 57 s"
+    },
+    {
+      "timestamp_start": "12/14/2017 7:14:12 PM",
+      "timestamp_end": "12/14/2017 7:39:25 PM",
+      "station_start": "W 116 St & Amsterdam Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "25 min 13 s"
+    },
+    {
+      "timestamp_start": "12/13/2017 2:18:35 PM",
+      "timestamp_end": "12/13/2017 2:35:46 PM",
+      "station_start": "5 Ave & E 63 St",
+      "station_end": "Columbus Ave & W 95 St",
+      "timestamp_duration": "17 min 11 s"
+    },
+    {
+      "timestamp_start": "12/13/2017 1:29:19 PM",
+      "timestamp_end": "12/13/2017 1:51:18 PM",
+      "station_start": "W 116 St & Amsterdam Ave",
+      "station_end": "5 Ave & E 63 St",
+      "timestamp_duration": "21 min 59 s"
+    },
+    {
+      "timestamp_start": "11/29/2017 4:41:12 PM",
+      "timestamp_end": "11/29/2017 5:03:21 PM",
+      "station_start": "Amsterdam Ave & W 119 St",
+      "station_end": "E 58 St & 3 Ave",
+      "timestamp_duration": "22 min 9 s"
+    },
+    {
+      "timestamp_start": "11/27/2017 5:04:38 PM",
+      "timestamp_end": "11/27/2017 5:11:30 PM",
+      "station_start": "Columbus Ave & W 95 St",
+      "station_end": "Amsterdam Ave & W 119 St",
+      "timestamp_duration": "6 min 52 s"
+    },
+    {
+      "timestamp_start": "11/27/2017 4:02:16 PM",
+      "timestamp_end": "11/27/2017 4:08:22 PM",
+      "station_start": "Amsterdam Ave & W 119 St",
+      "station_end": "Columbus Ave & W 95 St",
+      "timestamp_duration": "6 min 6 s"
+    },
+    {
+      "timestamp_start": "11/20/2017 9:17:23 PM",
+      "timestamp_end": "11/20/2017 9:50:18 PM",
+      "station_start": "6 Ave & Spring St",
+      "station_end": "Columbus Ave & W 95 St",
+      "timestamp_duration": "32 min 55 s"
+    },
+    {
+      "timestamp_start": "11/20/2017 4:16:12 PM",
+      "timestamp_end": "11/20/2017 4:36:53 PM",
+      "station_start": "5 Ave & E 63 St",
+      "station_end": "W 20 St & 11 Ave",
+      "timestamp_duration": "20 min 41 s"
+    },
+    {
+      "timestamp_start": "11/20/2017 3:29:34 PM",
+      "timestamp_end": "11/20/2017 3:50:53 PM",
+      "station_start": "W 116 St & Amsterdam Ave",
+      "station_end": "5 Ave & E 63 St",
+      "timestamp_duration": "21 min 19 s"
+    },
+    {
+      "timestamp_start": "11/19/2017 6:07:07 PM",
+      "timestamp_end": "11/19/2017 6:48:27 PM",
+      "station_start": "E 11 St & Broadway",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "41 min 20 s"
+    },
+    {
+      "timestamp_start": "11/19/2017 2:23:02 PM",
+      "timestamp_end": "11/19/2017 2:27:05 PM",
+      "station_start": "6 Ave & 9 St",
+      "station_end": "Berkeley Pl & 7 Ave",
+      "timestamp_duration": "4 min 3 s"
+    },
+    {
+      "timestamp_start": "11/19/2017 1:18:25 PM",
+      "timestamp_end": "11/19/2017 1:42:41 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "W 21 St & 6 Ave",
+      "timestamp_duration": "24 min 16 s"
+    },
+    {
+      "timestamp_start": "11/18/2017 1:23:17 AM",
+      "timestamp_end": "11/18/2017 1:30:10 AM",
+      "station_start": "Amsterdam Ave & W 119 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "6 min 53 s"
+    },
+    {
+      "timestamp_start": "11/16/2017 4:51:30 PM",
+      "timestamp_end": "11/16/2017 4:51:47 PM",
+      "station_start": "W 116 St & Amsterdam Ave",
+      "station_end": "W 116 St & Amsterdam Ave",
+      "timestamp_duration": "0 min 17 s"
+    },
+    {
+      "timestamp_start": "11/15/2017 5:57:48 PM",
+      "timestamp_end": "11/15/2017 6:01:03 PM",
+      "station_start": "W 116 St & Amsterdam Ave",
+      "station_end": "Columbus Ave & W 103 St",
+      "timestamp_duration": "3 min 15 s"
+    },
+    {
+      "timestamp_start": "11/12/2017 6:04:09 PM",
+      "timestamp_end": "11/12/2017 6:40:47 PM",
+      "station_start": "Lafayette St & Jersey St",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "36 min 38 s"
+    },
+    {
+      "timestamp_start": "11/12/2017 2:32:37 PM",
+      "timestamp_end": "11/12/2017 3:06:07 PM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "W Broadway & Spring Street",
+      "timestamp_duration": "33 min 30 s"
+    },
+    {
+      "timestamp_start": "11/11/2017 10:11:00 PM",
+      "timestamp_end": "11/11/2017 10:59:00 PM",
+      "station_start": "Grand St & Elizabeth St",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "48 min 0 s"
+    },
+    {
+      "timestamp_start": "11/08/2017 9:47:31 PM",
+      "timestamp_end": "11/08/2017 10:15:27 PM",
+      "station_start": "Broadway & W 32 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "27 min 56 s"
+    },
+    {
+      "timestamp_start": "11/03/2017 5:17:35 PM",
+      "timestamp_end": "11/03/2017 5:22:57 PM",
+      "station_start": "W 116 St & Amsterdam Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "5 min 22 s"
+    },
+    {
+      "timestamp_start": "11/03/2017 11:53:10 AM",
+      "timestamp_end": "11/03/2017 12:50:35 PM",
+      "station_start": "Amsterdam Ave & W 119 St",
+      "station_end": "E 51 St & Lexington Ave",
+      "timestamp_duration": "57 min 25 s"
+    },
+    {
+      "timestamp_start": "11/01/2017 2:11:19 PM",
+      "timestamp_end": "11/01/2017 2:29:28 PM",
+      "station_start": "5 Ave & E 63 St",
+      "station_end": "Columbus Ave & W 95 St",
+      "timestamp_duration": "18 min 9 s"
+    },
+    {
+      "timestamp_start": "11/01/2017 12:48:33 PM",
+      "timestamp_end": "11/01/2017 1:13:07 PM",
+      "station_start": "W 116 St & Amsterdam Ave",
+      "station_end": "Grand Army Plaza & Central Park S",
+      "timestamp_duration": "24 min 34 s"
+    },
+    {
+      "timestamp_start": "10/31/2017 5:14:01 PM",
+      "timestamp_end": "10/31/2017 5:18:46 PM",
+      "station_start": "W 116 St & Amsterdam Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "4 min 45 s"
+    },
+    {
+      "timestamp_start": "10/28/2017 5:59:26 PM",
+      "timestamp_end": "10/28/2017 6:29:52 PM",
+      "station_start": "Schermerhorn St & Bond St",
+      "station_end": "Bond St & Bergen St",
+      "timestamp_duration": "30 min 26 s"
+    },
+    {
+      "timestamp_start": "10/27/2017 8:12:59 PM",
+      "timestamp_end": "10/27/2017 8:42:25 PM",
+      "station_start": "W 31 St & 7 Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "29 min 26 s"
+    },
+    {
+      "timestamp_start": "10/27/2017 5:43:36 PM",
+      "timestamp_end": "10/27/2017 6:13:18 PM",
+      "station_start": "Amsterdam Ave & W 119 St",
+      "station_end": "W 31 St & 7 Ave",
+      "timestamp_duration": "29 min 42 s"
+    },
+    {
+      "timestamp_start": "10/27/2017 3:53:08 PM",
+      "timestamp_end": "10/27/2017 3:59:31 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Amsterdam Ave & W 119 St",
+      "timestamp_duration": "6 min 23 s"
+    },
+    {
+      "timestamp_start": "10/27/2017 5:58:12 AM",
+      "timestamp_end": "10/27/2017 6:04:51 AM",
+      "station_start": "Amsterdam Ave & W 119 St",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "6 min 39 s"
+    },
+    {
+      "timestamp_start": "10/26/2017 12:25:52 PM",
+      "timestamp_end": "10/26/2017 12:35:37 PM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "Broadway & W 122 St",
+      "timestamp_duration": "9 min 45 s"
+    },
+    {
+      "timestamp_start": "10/25/2017 8:57:10 PM",
+      "timestamp_end": "10/25/2017 9:28:03 PM",
+      "station_start": "5 Ave & E 29 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "30 min 53 s"
+    },
+    {
+      "timestamp_start": "10/25/2017 6:43:30 PM",
+      "timestamp_end": "10/25/2017 7:13:51 PM",
+      "station_start": "Amsterdam Ave & W 119 St",
+      "station_end": "E 33 St & 5 Ave",
+      "timestamp_duration": "30 min 21 s"
+    },
+    {
+      "timestamp_start": "10/21/2017 6:07:18 PM",
+      "timestamp_end": "10/21/2017 6:34:14 PM",
+      "station_start": "Riverside Blvd & W 67 St",
+      "station_end": "St Nicholas Ave & Manhattan Ave",
+      "timestamp_duration": "26 min 56 s"
+    },
+    {
+      "timestamp_start": "10/21/2017 3:57:21 PM",
+      "timestamp_end": "10/21/2017 4:52:30 PM",
+      "station_start": "State St & Smith St",
+      "station_end": "Riverside Blvd & W 67 St",
+      "timestamp_duration": "55 min 9 s"
+    },
+    {
+      "timestamp_start": "10/20/2017 9:49:51 PM",
+      "timestamp_end": "10/20/2017 10:00:15 PM",
+      "station_start": "7 St & 3 Ave",
+      "station_end": "Dean St & Hoyt St",
+      "timestamp_duration": "10 min 24 s"
+    },
+    {
+      "timestamp_start": "10/20/2017 6:06:19 PM",
+      "timestamp_end": "10/20/2017 7:02:26 PM",
+      "station_start": "Broadway & W 122 St",
+      "station_end": "7 St & 3 Ave",
+      "timestamp_duration": "56 min 7 s"
+    },
+    {
+      "timestamp_start": "10/18/2017 7:03:28 PM",
+      "timestamp_end": "10/18/2017 7:26:40 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "E 33 St & 5 Ave",
+      "timestamp_duration": "23 min 12 s"
+    },
+    {
+      "timestamp_start": "10/13/2017 11:35:47 PM",
+      "timestamp_end": "10/13/2017 11:52:54 PM",
+      "station_start": "East End Ave & E 86 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "17 min 7 s"
+    },
+    {
+      "timestamp_start": "10/13/2017 8:40:57 PM",
+      "timestamp_end": "10/13/2017 8:58:38 PM",
+      "station_start": "Amsterdam Ave & W 119 St",
+      "station_end": "East End Ave & E 86 St",
+      "timestamp_duration": "17 min 41 s"
+    },
+    {
+      "timestamp_start": "10/11/2017 5:58:25 PM",
+      "timestamp_end": "10/11/2017 6:24:46 PM",
+      "station_start": "Broadway & W 122 St",
+      "station_end": "W 52 St & 9 Ave",
+      "timestamp_duration": "26 min 21 s"
+    },
+    {
+      "timestamp_start": "10/09/2017 1:39:41 PM",
+      "timestamp_end": "10/09/2017 2:07:39 PM",
+      "station_start": "6 Ave & W 33 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "27 min 58 s"
+    },
+    {
+      "timestamp_start": "10/09/2017 11:06:34 AM",
+      "timestamp_end": "10/09/2017 11:24:53 AM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "Broadway & W 41 St",
+      "timestamp_duration": "18 min 19 s"
+    },
+    {
+      "timestamp_start": "10/07/2017 7:15:18 PM",
+      "timestamp_end": "10/07/2017 7:20:04 PM",
+      "station_start": "W 116 St & Broadway",
+      "station_end": "W 100 St & Broadway",
+      "timestamp_duration": "4 min 46 s"
+    },
+    {
+      "timestamp_start": "10/06/2017 10:04:43 PM",
+      "timestamp_end": "10/06/2017 10:25:49 PM",
+      "station_start": "E 58 St & 1 Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "21 min 6 s"
+    },
+    {
+      "timestamp_start": "10/06/2017 7:43:43 PM",
+      "timestamp_end": "10/06/2017 7:59:35 PM",
+      "station_start": "8 Ave & W 31 St",
+      "station_end": "E 58 St & 1 Ave",
+      "timestamp_duration": "15 min 52 s"
+    },
+    {
+      "timestamp_start": "10/05/2017 2:22:38 PM",
+      "timestamp_end": "10/05/2017 2:39:26 PM",
+      "station_start": "5 Ave & E 63 St",
+      "station_end": "Amsterdam Ave & W 119 St",
+      "timestamp_duration": "16 min 48 s"
+    },
+    {
+      "timestamp_start": "10/05/2017 12:58:50 PM",
+      "timestamp_end": "10/05/2017 1:04:45 PM",
+      "station_start": "W 37 St & 5 Ave",
+      "station_end": "E 59 St & Madison Ave",
+      "timestamp_duration": "5 min 55 s"
+    },
+    {
+      "timestamp_start": "10/05/2017 12:24:48 PM",
+      "timestamp_end": "10/05/2017 12:56:44 PM",
+      "station_start": "Amsterdam Ave & W 119 St",
+      "station_end": "W 37 St & 5 Ave",
+      "timestamp_duration": "31 min 56 s"
+    },
+    {
+      "timestamp_start": "10/01/2017 4:39:00 PM",
+      "timestamp_end": "10/01/2017 4:42:19 PM",
+      "station_start": "Madison Ave & E 99 St",
+      "station_end": "Madison Ave & E 99 St",
+      "timestamp_duration": "3 min 19 s"
+    },
+    {
+      "timestamp_start": "10/01/2017 8:59:16 AM",
+      "timestamp_end": "10/01/2017 9:09:34 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Madison Ave & E 99 St",
+      "timestamp_duration": "10 min 18 s"
+    },
+    {
+      "timestamp_start": "10/01/2017 3:00:17 AM",
+      "timestamp_end": "10/01/2017 3:29:00 AM",
+      "station_start": "E 17 St & Broadway",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "28 min 43 s"
+    },
+    {
+      "timestamp_start": "09/28/2017 6:47:05 PM",
+      "timestamp_end": "09/28/2017 6:55:07 PM",
+      "station_start": "Lafayette St & E 8 St",
+      "station_end": "E 9 St & Avenue C",
+      "timestamp_duration": "8 min 2 s"
+    },
+    {
+      "timestamp_start": "09/28/2017 4:36:10 PM",
+      "timestamp_end": "09/28/2017 4:57:57 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "W 52 St & 6 Ave",
+      "timestamp_duration": "21 min 47 s"
+    },
+    {
+      "timestamp_start": "09/27/2017 10:43:41 PM",
+      "timestamp_end": "09/27/2017 11:05:53 PM",
+      "station_start": "E 32 St & Park Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "22 min 12 s"
+    },
+    {
+      "timestamp_start": "09/27/2017 7:31:49 PM",
+      "timestamp_end": "09/27/2017 7:58:00 PM",
+      "station_start": "W 100 St & Broadway",
+      "station_end": "E 33 St & 5 Ave",
+      "timestamp_duration": "26 min 11 s"
+    },
+    {
+      "timestamp_start": "09/26/2017 10:11:05 PM",
+      "timestamp_end": "09/26/2017 10:23:16 PM",
+      "station_start": "Broadway & W 122 St",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "12 min 11 s"
+    },
+    {
+      "timestamp_start": "09/25/2017 5:16:04 PM",
+      "timestamp_end": "09/25/2017 5:26:14 PM",
+      "station_start": "Amsterdam Ave & W 119 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "10 min 10 s"
+    },
+    {
+      "timestamp_start": "09/25/2017 9:05:30 AM",
+      "timestamp_end": "09/25/2017 9:16:26 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Amsterdam Ave & W 119 St",
+      "timestamp_duration": "10 min 56 s"
+    },
+    {
+      "timestamp_start": "09/24/2017 10:15:34 PM",
+      "timestamp_end": "09/24/2017 10:53:33 PM",
+      "station_start": "W 13 St & Hudson St",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "37 min 59 s"
+    },
+    {
+      "timestamp_start": "09/24/2017 7:08:46 PM",
+      "timestamp_end": "09/24/2017 7:24:29 PM",
+      "station_start": "E 33 St & 5 Ave",
+      "station_end": "W 13 St & Hudson St",
+      "timestamp_duration": "15 min 43 s"
+    },
+    {
+      "timestamp_start": "09/24/2017 6:24:52 PM",
+      "timestamp_end": "09/24/2017 6:44:10 PM",
+      "station_start": "E 58 St & 3 Ave",
+      "station_end": "E 33 St & 5 Ave",
+      "timestamp_duration": "19 min 18 s"
+    },
+    {
+      "timestamp_start": "09/24/2017 9:16:55 AM",
+      "timestamp_end": "09/24/2017 9:33:19 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "E 58 St & 3 Ave",
+      "timestamp_duration": "16 min 24 s"
+    },
+    {
+      "timestamp_start": "09/22/2017 7:26:53 AM",
+      "timestamp_end": "09/22/2017 7:46:50 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "W 33 St & 7 Ave",
+      "timestamp_duration": "19 min 57 s"
+    },
+    {
+      "timestamp_start": "09/20/2017 8:58:29 PM",
+      "timestamp_end": "09/20/2017 9:22:15 PM",
+      "station_start": "E 33 St & 5 Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "23 min 46 s"
+    },
+    {
+      "timestamp_start": "09/20/2017 7:04:23 PM",
+      "timestamp_end": "09/20/2017 7:36:28 PM",
+      "station_start": "Broadway & W 122 St",
+      "station_end": "E 33 St & 5 Ave",
+      "timestamp_duration": "32 min 5 s"
+    },
+    {
+      "timestamp_start": "09/19/2017 4:37:54 PM",
+      "timestamp_end": "09/19/2017 4:55:55 PM",
+      "station_start": "1 Ave & E 62 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "18 min 1 s"
+    },
+    {
+      "timestamp_start": "09/19/2017 3:15:21 PM",
+      "timestamp_end": "09/19/2017 3:39:43 PM",
+      "station_start": "Amsterdam Ave & W 119 St",
+      "station_end": "1 Ave & E 62 St",
+      "timestamp_duration": "24 min 22 s"
+    },
+    {
+      "timestamp_start": "09/19/2017 8:16:51 AM",
+      "timestamp_end": "09/19/2017 8:28:27 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Amsterdam Ave & W 119 St",
+      "timestamp_duration": "11 min 36 s"
+    },
+    {
+      "timestamp_start": "09/18/2017 5:59:38 PM",
+      "timestamp_end": "09/18/2017 6:08:30 PM",
+      "station_start": "Amsterdam Ave & W 119 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "8 min 52 s"
+    },
+    {
+      "timestamp_start": "09/17/2017 9:37:19 AM",
+      "timestamp_end": "09/17/2017 9:46:05 AM",
+      "station_start": "Grand Army Plaza & Plaza St West",
+      "station_end": "Hoyt St & Warren St",
+      "timestamp_duration": "8 min 46 s"
+    },
+    {
+      "timestamp_start": "09/12/2017 9:51:19 PM",
+      "timestamp_end": "09/12/2017 10:21:09 PM",
+      "station_start": "6 Ave & W 33 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "29 min 50 s"
+    },
+    {
+      "timestamp_start": "09/12/2017 7:28:15 PM",
+      "timestamp_end": "09/12/2017 7:50:19 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "E 33 St & 5 Ave",
+      "timestamp_duration": "22 min 4 s"
+    },
+    {
+      "timestamp_start": "09/01/2017 9:28:09 AM",
+      "timestamp_end": "09/01/2017 9:41:19 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Broadway & W 60 St",
+      "timestamp_duration": "13 min 10 s"
+    },
+    {
+      "timestamp_start": "08/31/2017 10:07:56 PM",
+      "timestamp_end": "08/31/2017 10:20:39 PM",
+      "station_start": "E 109 St & 3 Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "12 min 43 s"
+    },
+    {
+      "timestamp_start": "08/31/2017 5:59:19 PM",
+      "timestamp_end": "08/31/2017 6:11:24 PM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "E 109 St & 3 Ave",
+      "timestamp_duration": "12 min 5 s"
+    },
+    {
+      "timestamp_start": "08/30/2017 10:20:46 PM",
+      "timestamp_end": "08/30/2017 10:29:03 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "8 min 17 s"
+    },
+    {
+      "timestamp_start": "08/28/2017 1:31:00 PM",
+      "timestamp_end": "08/28/2017 1:50:28 PM",
+      "station_start": "W 44 St & 5 Ave",
+      "station_end": "Central Park North & Adam Clayton Powell Blvd",
+      "timestamp_duration": "19 min 28 s"
+    },
+    {
+      "timestamp_start": "08/28/2017 8:38:02 AM",
+      "timestamp_end": "08/28/2017 8:55:44 AM",
+      "station_start": "Central Park W & W 96 St",
+      "station_end": "W 43 St & 6 Ave",
+      "timestamp_duration": "17 min 42 s"
+    },
+    {
+      "timestamp_start": "08/26/2017 8:11:44 PM",
+      "timestamp_end": "08/26/2017 8:21:43 PM",
+      "station_start": "2 Ave & E 96 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "9 min 59 s"
+    },
+    {
+      "timestamp_start": "08/21/2017 5:07:55 PM",
+      "timestamp_end": "08/21/2017 5:11:25 PM",
+      "station_start": "W 106 St & Amsterdam Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "3 min 30 s"
+    },
+    {
+      "timestamp_start": "08/19/2017 6:59:46 PM",
+      "timestamp_end": "08/19/2017 7:01:35 PM",
+      "station_start": "Bond St & Schermerhorn St",
+      "station_end": "Bond St & Bergen St",
+      "timestamp_duration": "1 min 49 s"
+    },
+    {
+      "timestamp_start": "08/18/2017 12:45:18 PM",
+      "timestamp_end": "08/18/2017 12:49:27 PM",
+      "station_start": "W 43 St & 6 Ave",
+      "station_end": "W 37 St & 5 Ave",
+      "timestamp_duration": "4 min 9 s"
+    },
+    {
+      "timestamp_start": "08/18/2017 9:39:55 AM",
+      "timestamp_end": "08/18/2017 10:02:32 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "W 43 St & 6 Ave",
+      "timestamp_duration": "22 min 37 s"
+    },
+    {
+      "timestamp_start": "08/18/2017 9:39:17 AM",
+      "timestamp_end": "08/18/2017 9:39:41 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "0 min 24 s"
+    },
+    {
+      "timestamp_start": "08/17/2017 6:41:48 PM",
+      "timestamp_end": "08/17/2017 7:10:39 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "E 33 St & 5 Ave",
+      "timestamp_duration": "28 min 51 s"
+    },
+    {
+      "timestamp_start": "08/14/2017 9:46:26 PM",
+      "timestamp_end": "08/14/2017 9:53:25 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "6 min 59 s"
+    },
+    {
+      "timestamp_start": "08/12/2017 5:20:07 PM",
+      "timestamp_end": "08/12/2017 5:28:59 PM",
+      "station_start": "3 Ave & E 100 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "8 min 52 s"
+    },
+    {
+      "timestamp_start": "08/11/2017 11:02:32 PM",
+      "timestamp_end": "08/11/2017 11:23:36 PM",
+      "station_start": "E 51 St & Lexington Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "21 min 4 s"
+    },
+    {
+      "timestamp_start": "08/11/2017 8:52:33 AM",
+      "timestamp_end": "08/11/2017 9:28:00 AM",
+      "station_start": "Bond St & Bergen St",
+      "station_end": "W 43 St & 6 Ave",
+      "timestamp_duration": "35 min 27 s"
+    },
+    {
+      "timestamp_start": "08/10/2017 6:32:57 PM",
+      "timestamp_end": "08/10/2017 6:58:48 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "E 33 St & 5 Ave",
+      "timestamp_duration": "25 min 51 s"
+    },
+    {
+      "timestamp_start": "08/08/2017 5:11:19 PM",
+      "timestamp_end": "08/08/2017 5:38:44 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "Lafayette St & E 8 St",
+      "timestamp_duration": "27 min 25 s"
+    },
+    {
+      "timestamp_start": "08/06/2017 8:33:33 PM",
+      "timestamp_end": "08/06/2017 9:00:27 PM",
+      "station_start": "W 25 St & 6 Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "26 min 54 s"
+    },
+    {
+      "timestamp_start": "08/06/2017 12:01:59 PM",
+      "timestamp_end": "08/06/2017 12:34:21 PM",
+      "station_start": "West End Ave & W 94 St",
+      "station_end": "Washington St & Gansevoort St",
+      "timestamp_duration": "32 min 22 s"
+    },
+    {
+      "timestamp_start": "08/05/2017 7:21:09 PM",
+      "timestamp_end": "08/05/2017 8:17:10 PM",
+      "station_start": "W 43 St & 6 Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "56 min 1 s"
+    },
+    {
+      "timestamp_start": "08/05/2017 1:12:24 PM",
+      "timestamp_end": "08/05/2017 1:37:04 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "E 40 St & 5 Ave",
+      "timestamp_duration": "24 min 40 s"
+    },
+    {
+      "timestamp_start": "08/04/2017 6:03:49 PM",
+      "timestamp_end": "08/04/2017 6:33:14 PM",
+      "station_start": "Riverside Dr & W 104 St",
+      "station_end": "Duane St & Greenwich St",
+      "timestamp_duration": "29 min 25 s"
+    },
+    {
+      "timestamp_start": "08/03/2017 9:43:10 PM",
+      "timestamp_end": "08/03/2017 10:04:06 PM",
+      "station_start": "E 32 St & Park Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "20 min 56 s"
+    },
+    {
+      "timestamp_start": "08/03/2017 6:17:58 PM",
+      "timestamp_end": "08/03/2017 6:46:32 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "E 33 St & 5 Ave",
+      "timestamp_duration": "28 min 34 s"
+    },
+    {
+      "timestamp_start": "08/02/2017 7:31:11 PM",
+      "timestamp_end": "08/02/2017 7:48:14 PM",
+      "station_start": "Broadway & W 60 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "17 min 3 s"
+    },
+    {
+      "timestamp_start": "08/01/2017 8:25:25 PM",
+      "timestamp_end": "08/01/2017 8:30:10 PM",
+      "station_start": "W 92 St & Broadway",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "4 min 45 s"
+    },
+    {
+      "timestamp_start": "08/01/2017 7:01:37 PM",
+      "timestamp_end": "08/01/2017 7:06:21 PM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "W 92 St & Broadway",
+      "timestamp_duration": "4 min 44 s"
+    },
+    {
+      "timestamp_start": "07/30/2017 8:49:50 PM",
+      "timestamp_end": "07/30/2017 8:57:19 PM",
+      "station_start": "Columbus Ave & W 72 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "7 min 29 s"
+    },
+    {
+      "timestamp_start": "07/29/2017 6:06:01 PM",
+      "timestamp_end": "07/29/2017 6:26:39 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "20 min 38 s"
+    },
+    {
+      "timestamp_start": "07/25/2017 7:32:46 PM",
+      "timestamp_end": "07/25/2017 7:35:50 PM",
+      "station_start": "W 107 St & Columbus Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "3 min 4 s"
+    },
+    {
+      "timestamp_start": "07/23/2017 1:22:00 PM",
+      "timestamp_end": "07/23/2017 1:46:11 PM",
+      "station_start": "Court St & State St",
+      "station_end": "Centre St & Worth St",
+      "timestamp_duration": "24 min 11 s"
+    },
+    {
+      "timestamp_start": "07/22/2017 7:11:16 PM",
+      "timestamp_end": "07/22/2017 7:28:26 PM",
+      "station_start": "5 Ave & E 29 St",
+      "station_end": "MacDougal St & Washington Sq",
+      "timestamp_duration": "17 min 10 s"
+    },
+    {
+      "timestamp_start": "07/21/2017 5:47:28 PM",
+      "timestamp_end": "07/21/2017 6:42:44 PM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "6 Ave & Spring St",
+      "timestamp_duration": "55 min 16 s"
+    },
+    {
+      "timestamp_start": "07/21/2017 11:40:57 AM",
+      "timestamp_end": "07/21/2017 12:26:00 PM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "Cathedral Pkwy & Broadway",
+      "timestamp_duration": "45 min 3 s"
+    },
+    {
+      "timestamp_start": "07/20/2017 9:24:36 PM",
+      "timestamp_end": "07/20/2017 9:47:01 PM",
+      "station_start": "Lexington Ave & E 63 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "22 min 25 s"
+    },
+    {
+      "timestamp_start": "07/20/2017 5:49:59 PM",
+      "timestamp_end": "07/20/2017 6:06:39 PM",
+      "station_start": "E 55 St & 3 Ave",
+      "station_end": "E 33 St & 5 Ave",
+      "timestamp_duration": "16 min 40 s"
+    },
+    {
+      "timestamp_start": "07/20/2017 5:21:44 PM",
+      "timestamp_end": "07/20/2017 5:46:12 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "E 58 St & 3 Ave",
+      "timestamp_duration": "24 min 28 s"
+    },
+    {
+      "timestamp_start": "07/19/2017 6:01:04 PM",
+      "timestamp_end": "07/19/2017 6:04:33 PM",
+      "station_start": "W 106 St & Amsterdam Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "3 min 29 s"
+    },
+    {
+      "timestamp_start": "07/19/2017 9:40:16 AM",
+      "timestamp_end": "07/19/2017 9:55:18 AM",
+      "station_start": "E 85 St & 3 Ave",
+      "station_end": "Cathedral Pkwy & Broadway",
+      "timestamp_duration": "15 min 2 s"
+    },
+    {
+      "timestamp_start": "07/19/2017 8:16:29 AM",
+      "timestamp_end": "07/19/2017 8:42:53 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "E 85 St & 3 Ave",
+      "timestamp_duration": "26 min 24 s"
+    },
+    {
+      "timestamp_start": "07/18/2017 5:44:55 PM",
+      "timestamp_end": "07/18/2017 5:48:09 PM",
+      "station_start": "W 106 St & Amsterdam Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "3 min 14 s"
+    },
+    {
+      "timestamp_start": "07/16/2017 10:39:59 PM",
+      "timestamp_end": "07/16/2017 10:48:22 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "8 min 23 s"
+    },
+    {
+      "timestamp_start": "07/16/2017 6:12:46 PM",
+      "timestamp_end": "07/16/2017 6:20:59 PM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "Cathedral Pkwy & Broadway",
+      "timestamp_duration": "8 min 13 s"
+    },
+    {
+      "timestamp_start": "07/15/2017 5:57:52 PM",
+      "timestamp_end": "07/15/2017 6:03:38 PM",
+      "station_start": "E 53 St & Madison Ave",
+      "station_end": "E 51 St & Lexington Ave",
+      "timestamp_duration": "5 min 46 s"
+    },
+    {
+      "timestamp_start": "07/15/2017 4:26:34 PM",
+      "timestamp_end": "07/15/2017 4:41:36 PM",
+      "station_start": "W 18 St & 6 Ave",
+      "station_end": "Broadway & W 58 St",
+      "timestamp_duration": "15 min 2 s"
+    },
+    {
+      "timestamp_start": "07/15/2017 9:10:15 AM",
+      "timestamp_end": "07/15/2017 9:31:10 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "W 43 St & 6 Ave",
+      "timestamp_duration": "20 min 55 s"
+    },
+    {
+      "timestamp_start": "07/13/2017 9:41:37 PM",
+      "timestamp_end": "07/13/2017 9:47:34 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "5 min 57 s"
+    },
+    {
+      "timestamp_start": "07/12/2017 7:15:51 PM",
+      "timestamp_end": "07/12/2017 7:21:30 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "5 min 39 s"
+    },
+    {
+      "timestamp_start": "07/10/2017 8:44:37 AM",
+      "timestamp_end": "07/10/2017 9:07:07 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "W 13 St & Hudson St",
+      "timestamp_duration": "22 min 30 s"
+    },
+    {
+      "timestamp_start": "07/09/2017 6:09:49 PM",
+      "timestamp_end": "07/09/2017 6:32:56 PM",
+      "station_start": "East End Ave & E 86 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "23 min 7 s"
+    },
+    {
+      "timestamp_start": "07/09/2017 12:19:49 PM",
+      "timestamp_end": "07/09/2017 12:22:45 PM",
+      "station_start": "2 Ave & E 104 St",
+      "station_end": "E 102 St & 1 Ave",
+      "timestamp_duration": "2 min 56 s"
+    },
+    {
+      "timestamp_start": "07/09/2017 12:04:07 PM",
+      "timestamp_end": "07/09/2017 12:17:31 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "2 Ave & E 104 St",
+      "timestamp_duration": "13 min 24 s"
+    },
+    {
+      "timestamp_start": "07/08/2017 9:04:16 PM",
+      "timestamp_end": "07/08/2017 9:53:15 PM",
+      "station_start": "Lafayette St & Jersey St",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "48 min 59 s"
+    },
+    {
+      "timestamp_start": "07/08/2017 7:32:25 PM",
+      "timestamp_end": "07/08/2017 7:49:21 PM",
+      "station_start": "Lexington Ave & E 29 St",
+      "station_end": "Lafayette St & Jersey St",
+      "timestamp_duration": "16 min 56 s"
+    },
+    {
+      "timestamp_start": "07/08/2017 4:02:35 PM",
+      "timestamp_end": "07/08/2017 4:19:27 PM",
+      "station_start": "W 63 St & Broadway",
+      "station_end": "Broadway & W 36 St",
+      "timestamp_duration": "16 min 52 s"
+    },
+    {
+      "timestamp_start": "07/08/2017 9:20:42 AM",
+      "timestamp_end": "07/08/2017 9:23:29 AM",
+      "station_start": "W 100 St & Broadway",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "2 min 47 s"
+    },
+    {
+      "timestamp_start": "07/08/2017 6:47:57 AM",
+      "timestamp_end": "07/08/2017 6:59:01 AM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "Riverside Dr & W 72 St",
+      "timestamp_duration": "11 min 4 s"
+    },
+    {
+      "timestamp_start": "07/07/2017 7:58:26 AM",
+      "timestamp_end": "07/07/2017 8:01:23 AM",
+      "station_start": "W 104 St & Amsterdam Ave",
+      "station_end": "Cathedral Pkwy & Broadway",
+      "timestamp_duration": "2 min 57 s"
+    },
+    {
+      "timestamp_start": "07/06/2017 8:32:23 PM",
+      "timestamp_end": "07/06/2017 9:15:16 PM",
+      "station_start": "West St & Chambers St",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "42 min 53 s"
+    },
+    {
+      "timestamp_start": "07/06/2017 5:49:52 PM",
+      "timestamp_end": "07/06/2017 6:17:00 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "West St & Chambers St",
+      "timestamp_duration": "27 min 8 s"
+    },
+    {
+      "timestamp_start": "07/04/2017 10:06:39 PM",
+      "timestamp_end": "07/04/2017 10:15:30 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "8 min 51 s"
+    },
+    {
+      "timestamp_start": "07/03/2017 9:43:19 PM",
+      "timestamp_end": "07/03/2017 10:00:07 PM",
+      "station_start": "W 63 St & Broadway",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "16 min 48 s"
+    },
+    {
+      "timestamp_start": "07/03/2017 5:52:52 PM",
+      "timestamp_end": "07/03/2017 6:06:08 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "W 63 St & Broadway",
+      "timestamp_duration": "13 min 16 s"
+    },
+    {
+      "timestamp_start": "07/02/2017 4:49:44 PM",
+      "timestamp_end": "07/02/2017 5:05:01 PM",
+      "station_start": "Broadway & W 60 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "15 min 17 s"
+    },
+    {
+      "timestamp_start": "07/01/2017 6:24:43 PM",
+      "timestamp_end": "07/01/2017 6:27:02 PM",
+      "station_start": "Bond St & Schermerhorn St",
+      "station_end": "Bond St & Bergen St",
+      "timestamp_duration": "2 min 19 s"
+    },
+    {
+      "timestamp_start": "07/01/2017 5:19:47 PM",
+      "timestamp_end": "07/01/2017 5:30:07 PM",
+      "station_start": "2 Ave & E 96 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "10 min 20 s"
+    },
+    {
+      "timestamp_start": "07/01/2017 3:00:54 PM",
+      "timestamp_end": "07/01/2017 3:09:00 PM",
+      "station_start": "Central Park West & W 85 St",
+      "station_end": "2 Ave & E 96 St",
+      "timestamp_duration": "8 min 6 s"
+    },
+    {
+      "timestamp_start": "06/28/2017 6:05:41 PM",
+      "timestamp_end": "06/28/2017 6:24:26 PM",
+      "station_start": "E 84 St & Park Ave",
+      "station_end": "Central Park W & W 96 St",
+      "timestamp_duration": "18 min 45 s"
+    },
+    {
+      "timestamp_start": "06/28/2017 2:42:53 PM",
+      "timestamp_end": "06/28/2017 2:54:38 PM",
+      "station_start": "W 106 St & Central Park West",
+      "station_end": "5 Ave & E 88 St",
+      "timestamp_duration": "11 min 45 s"
+    },
+    {
+      "timestamp_start": "06/28/2017 9:06:48 AM",
+      "timestamp_end": "06/28/2017 9:34:17 AM",
+      "station_start": "Central Park West & W 102 St",
+      "station_end": "W 59 St & 10 Ave",
+      "timestamp_duration": "27 min 29 s"
+    },
+    {
+      "timestamp_start": "06/27/2017 8:37:02 PM",
+      "timestamp_end": "06/27/2017 8:47:55 PM",
+      "station_start": "Jackson Ave & 46 Rd",
+      "station_end": "21 St & Queens Plaza North",
+      "timestamp_duration": "10 min 53 s"
+    },
+    {
+      "timestamp_start": "06/27/2017 6:07:15 PM",
+      "timestamp_end": "06/27/2017 6:32:34 PM",
+      "station_start": "E 55 St & 3 Ave",
+      "station_end": "Jackson Ave & 46 Rd",
+      "timestamp_duration": "25 min 19 s"
+    },
+    {
+      "timestamp_start": "06/27/2017 11:04:52 AM",
+      "timestamp_end": "06/27/2017 11:43:52 AM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "Central Park S & 6 Ave",
+      "timestamp_duration": "39 min 0 s"
+    },
+    {
+      "timestamp_start": "06/26/2017 5:33:30 PM",
+      "timestamp_end": "06/26/2017 5:47:18 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Broadway & W 51 St",
+      "timestamp_duration": "13 min 48 s"
+    },
+    {
+      "timestamp_start": "06/25/2017 4:14:10 PM",
+      "timestamp_end": "06/25/2017 4:43:03 PM",
+      "station_start": "Bond St & Bergen St",
+      "station_end": "Kent Ave & N 7 St",
+      "timestamp_duration": "28 min 53 s"
+    },
+    {
+      "timestamp_start": "06/25/2017 1:38:02 PM",
+      "timestamp_end": "06/25/2017 1:41:32 PM",
+      "station_start": "Warren St & Court St",
+      "station_end": "Hoyt St & Warren St",
+      "timestamp_duration": "3 min 30 s"
+    },
+    {
+      "timestamp_start": "06/25/2017 11:43:10 AM",
+      "timestamp_end": "06/25/2017 12:05:39 PM",
+      "station_start": "Grand Army Plaza & Plaza St West",
+      "station_end": "Bergen St & Smith St",
+      "timestamp_duration": "22 min 29 s"
+    },
+    {
+      "timestamp_start": "06/24/2017 7:45:26 PM",
+      "timestamp_end": "06/24/2017 7:47:06 PM",
+      "station_start": "Bond St & Schermerhorn St",
+      "station_end": "Bond St & Bergen St",
+      "timestamp_duration": "1 min 40 s"
+    },
+    {
+      "timestamp_start": "06/24/2017 6:36:01 PM",
+      "timestamp_end": "06/24/2017 6:37:46 PM",
+      "station_start": "W 100 St & Broadway",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "1 min 45 s"
+    },
+    {
+      "timestamp_start": "06/23/2017 9:21:10 AM",
+      "timestamp_end": "06/23/2017 9:40:58 AM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "W 43 St & 6 Ave",
+      "timestamp_duration": "19 min 48 s"
+    },
+    {
+      "timestamp_start": "06/22/2017 2:35:11 PM",
+      "timestamp_end": "06/22/2017 2:48:33 PM",
+      "station_start": "Mercer St & Spring St",
+      "station_end": "W 38 St & 8 Ave",
+      "timestamp_duration": "13 min 22 s"
+    },
+    {
+      "timestamp_start": "06/22/2017 2:08:56 PM",
+      "timestamp_end": "06/22/2017 2:13:56 PM",
+      "station_start": "Bayard St & Baxter St",
+      "station_end": "Grand St & Greene St",
+      "timestamp_duration": "5 min 0 s"
+    },
+    {
+      "timestamp_start": "06/22/2017 1:56:10 PM",
+      "timestamp_end": "06/22/2017 1:59:17 PM",
+      "station_start": "Franklin St & W Broadway",
+      "station_end": "Centre St & Worth St",
+      "timestamp_duration": "3 min 7 s"
+    },
+    {
+      "timestamp_start": "06/22/2017 7:20:55 AM",
+      "timestamp_end": "06/22/2017 7:22:59 AM",
+      "station_start": "W 106 St & Amsterdam Ave",
+      "station_end": "Cathedral Pkwy & Broadway",
+      "timestamp_duration": "2 min 4 s"
+    },
+    {
+      "timestamp_start": "06/21/2017 6:38:01 PM",
+      "timestamp_end": "06/21/2017 6:41:15 PM",
+      "station_start": "W 106 St & Amsterdam Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "3 min 14 s"
+    },
+    {
+      "timestamp_start": "06/20/2017 8:01:15 PM",
+      "timestamp_end": "06/20/2017 8:03:47 PM",
+      "station_start": "W 106 St & Amsterdam Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "2 min 32 s"
+    },
+    {
+      "timestamp_start": "06/18/2017 8:01:14 PM",
+      "timestamp_end": "06/18/2017 8:06:00 PM",
+      "station_start": "W 82 St & Central Park West",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "4 min 46 s"
+    },
+    {
+      "timestamp_start": "06/18/2017 11:07:02 AM",
+      "timestamp_end": "06/18/2017 11:25:49 AM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "18 min 47 s"
+    },
+    {
+      "timestamp_start": "06/17/2017 8:21:27 PM",
+      "timestamp_end": "06/17/2017 8:43:49 PM",
+      "station_start": "Kent Ave & N 7 St",
+      "station_end": "Hoyt St & Warren St",
+      "timestamp_duration": "22 min 22 s"
+    },
+    {
+      "timestamp_start": "06/17/2017 5:04:54 PM",
+      "timestamp_end": "06/17/2017 5:35:14 PM",
+      "station_start": "Bond St & Bergen St",
+      "station_end": "Kent Ave & N 7 St",
+      "timestamp_duration": "30 min 20 s"
+    },
+    {
+      "timestamp_start": "06/16/2017 5:35:24 PM",
+      "timestamp_end": "06/16/2017 6:17:48 PM",
+      "station_start": "W 41 St & 8 Ave",
+      "station_end": "Hoyt St & Warren St",
+      "timestamp_duration": "42 min 24 s"
+    },
+    {
+      "timestamp_start": "06/16/2017 9:12:23 AM",
+      "timestamp_end": "06/16/2017 9:28:40 AM",
+      "station_start": "W 106 St & Central Park West",
+      "station_end": "W 43 St & 6 Ave",
+      "timestamp_duration": "16 min 17 s"
+    },
+    {
+      "timestamp_start": "06/15/2017 9:27:28 PM",
+      "timestamp_end": "06/15/2017 9:52:40 PM",
+      "station_start": "W 34 St & 11 Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "25 min 12 s"
+    },
+    {
+      "timestamp_start": "06/15/2017 5:29:17 PM",
+      "timestamp_end": "06/15/2017 5:55:07 PM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "9 Ave & W 18 St",
+      "timestamp_duration": "25 min 50 s"
+    },
+    {
+      "timestamp_start": "06/14/2017 4:02:47 PM",
+      "timestamp_end": "06/14/2017 4:11:27 PM",
+      "station_start": "W 84 St & Columbus Ave",
+      "station_end": "Cathedral Pkwy & Broadway",
+      "timestamp_duration": "8 min 40 s"
+    },
+    {
+      "timestamp_start": "06/14/2017 2:59:37 PM",
+      "timestamp_end": "06/14/2017 3:06:35 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "W 84 St & Broadway",
+      "timestamp_duration": "6 min 58 s"
+    },
+    {
+      "timestamp_start": "06/11/2017 8:54:44 PM",
+      "timestamp_end": "06/11/2017 9:05:10 PM",
+      "station_start": "Central Park West & W 72 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "10 min 26 s"
+    },
+    {
+      "timestamp_start": "06/11/2017 10:55:45 AM",
+      "timestamp_end": "06/11/2017 11:02:36 AM",
+      "station_start": "Bond St & Bergen St",
+      "station_end": "Fulton St & Adams St",
+      "timestamp_duration": "6 min 51 s"
+    },
+    {
+      "timestamp_start": "06/10/2017 11:00:19 PM",
+      "timestamp_end": "06/10/2017 11:25:40 PM",
+      "station_start": "Berry St & N 8 St",
+      "station_end": "Hoyt St & Warren St",
+      "timestamp_duration": "25 min 21 s"
+    },
+    {
+      "timestamp_start": "06/10/2017 5:57:23 PM",
+      "timestamp_end": "06/10/2017 6:16:16 PM",
+      "station_start": "Bond St & Bergen St",
+      "station_end": "Berry St & N 8 St",
+      "timestamp_duration": "18 min 53 s"
+    },
+    {
+      "timestamp_start": "06/10/2017 9:01:35 AM",
+      "timestamp_end": "06/10/2017 9:06:14 AM",
+      "station_start": "Bond St & Fulton St",
+      "station_end": "Hoyt St & Warren St",
+      "timestamp_duration": "4 min 39 s"
+    },
+    {
+      "timestamp_start": "06/10/2017 8:26:36 AM",
+      "timestamp_end": "06/10/2017 8:31:17 AM",
+      "station_start": "W 87 St & Amsterdam Ave",
+      "station_end": "Amsterdam Ave & W 73 St",
+      "timestamp_duration": "4 min 41 s"
+    },
+    {
+      "timestamp_start": "06/10/2017 7:51:20 AM",
+      "timestamp_end": "06/10/2017 7:56:42 AM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "W 87 St & Amsterdam Ave",
+      "timestamp_duration": "5 min 22 s"
+    },
+    {
+      "timestamp_start": "06/09/2017 6:17:49 PM",
+      "timestamp_end": "06/09/2017 6:23:38 PM",
+      "station_start": "Cleveland Pl & Spring St",
+      "station_end": "Carmine St & 6 Ave",
+      "timestamp_duration": "5 min 49 s"
+    },
+    {
+      "timestamp_start": "06/09/2017 5:12:20 PM",
+      "timestamp_end": "06/09/2017 5:50:38 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "Cleveland Pl & Spring St",
+      "timestamp_duration": "38 min 18 s"
+    },
+    {
+      "timestamp_start": "06/07/2017 5:38:10 PM",
+      "timestamp_end": "06/07/2017 5:42:15 PM",
+      "station_start": "W 106 St & Amsterdam Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "4 min 5 s"
+    },
+    {
+      "timestamp_start": "06/04/2017 10:27:14 AM",
+      "timestamp_end": "06/04/2017 10:35:53 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "2 Ave & E 96 St",
+      "timestamp_duration": "8 min 39 s"
+    },
+    {
+      "timestamp_start": "06/03/2017 9:33:00 PM",
+      "timestamp_end": "06/03/2017 10:05:35 PM",
+      "station_start": "E 30 St & Park Ave S",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "32 min 35 s"
+    },
+    {
+      "timestamp_start": "06/03/2017 12:50:15 PM",
+      "timestamp_end": "06/03/2017 1:21:56 PM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "Franklin St & W Broadway",
+      "timestamp_duration": "31 min 41 s"
+    },
+    {
+      "timestamp_start": "06/01/2017 6:46:41 PM",
+      "timestamp_end": "06/01/2017 7:52:04 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "1 h 5 min 23 s"
+    },
+    {
+      "timestamp_start": "05/31/2017 7:55:38 PM",
+      "timestamp_end": "05/31/2017 8:27:42 PM",
+      "station_start": "Mercer St & Bleecker St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "32 min 4 s"
+    },
+    {
+      "timestamp_start": "05/27/2017 9:58:59 AM",
+      "timestamp_end": "05/27/2017 10:04:08 AM",
+      "station_start": "Willoughby St & Fleet St",
+      "station_end": "Hoyt St & Warren St",
+      "timestamp_duration": "5 min 9 s"
+    },
+    {
+      "timestamp_start": "05/27/2017 9:17:46 AM",
+      "timestamp_end": "05/27/2017 9:23:51 AM",
+      "station_start": "Central Park W & W 96 St",
+      "station_end": "2 Ave & E 96 St",
+      "timestamp_duration": "6 min 5 s"
+    },
+    {
+      "timestamp_start": "05/24/2017 4:59:07 AM",
+      "timestamp_end": "05/24/2017 5:04:37 AM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "Cathedral Pkwy & Broadway",
+      "timestamp_duration": "5 min 30 s"
+    },
+    {
+      "timestamp_start": "05/22/2017 10:03:39 PM",
+      "timestamp_end": "05/22/2017 10:26:03 PM",
+      "station_start": "E 47 St & Park Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "22 min 24 s"
+    },
+    {
+      "timestamp_start": "05/22/2017 5:29:22 PM",
+      "timestamp_end": "05/22/2017 5:53:19 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "E 53 St & Madison Ave",
+      "timestamp_duration": "23 min 57 s"
+    },
+    {
+      "timestamp_start": "05/21/2017 10:09:43 PM",
+      "timestamp_end": "05/21/2017 10:14:41 PM",
+      "station_start": "Hoyt St & Warren St",
+      "station_end": "Bond St & Schermerhorn St",
+      "timestamp_duration": "4 min 58 s"
+    },
+    {
+      "timestamp_start": "05/21/2017 3:57:46 PM",
+      "timestamp_end": "05/21/2017 4:04:27 PM",
+      "station_start": "Lawrence St & Willoughby St",
+      "station_end": "Atlantic Ave & Furman St",
+      "timestamp_duration": "6 min 41 s"
+    },
+    {
+      "timestamp_start": "05/20/2017 5:02:39 PM",
+      "timestamp_end": "05/20/2017 5:22:26 PM",
+      "station_start": "Pershing Square North",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "19 min 47 s"
+    },
+    {
+      "timestamp_start": "05/20/2017 9:31:46 AM",
+      "timestamp_end": "05/20/2017 10:05:45 AM",
+      "station_start": "Bond St & Bergen St",
+      "station_end": "Pershing Square North",
+      "timestamp_duration": "33 min 59 s"
+    },
+    {
+      "timestamp_start": "05/19/2017 8:54:16 PM",
+      "timestamp_end": "05/19/2017 9:03:33 PM",
+      "station_start": "Fulton St & Washington Ave",
+      "station_end": "Bond St & Bergen St",
+      "timestamp_duration": "9 min 17 s"
+    },
+    {
+      "timestamp_start": "05/16/2017 9:15:48 PM",
+      "timestamp_end": "05/16/2017 9:20:54 PM",
+      "station_start": "Degraw St & Smith St",
+      "station_end": "Dean St & 4 Ave",
+      "timestamp_duration": "5 min 6 s"
+    },
+    {
+      "timestamp_start": "05/16/2017 6:23:01 PM",
+      "timestamp_end": "05/16/2017 6:48:12 PM",
+      "station_start": "Cleveland Pl & Spring St",
+      "station_end": "Degraw St & Smith St",
+      "timestamp_duration": "25 min 11 s"
+    },
+    {
+      "timestamp_start": "05/15/2017 11:14:13 PM",
+      "timestamp_end": "05/15/2017 11:20:48 PM",
+      "station_start": "St James Pl & Oliver St",
+      "station_end": "6 Ave & Canal St",
+      "timestamp_duration": "6 min 35 s"
+    },
+    {
+      "timestamp_start": "05/15/2017 6:38:59 PM",
+      "timestamp_end": "05/15/2017 6:43:05 PM",
+      "station_start": "Rivington St & Chrystie St",
+      "station_end": "Division St & Bowery",
+      "timestamp_duration": "4 min 6 s"
+    },
+    {
+      "timestamp_start": "05/15/2017 6:02:41 PM",
+      "timestamp_end": "05/15/2017 6:34:45 PM",
+      "station_start": "W 106 St & Amsterdam Ave",
+      "station_end": "Stanton St & Chrystie St",
+      "timestamp_duration": "32 min 4 s"
+    },
+    {
+      "timestamp_start": "05/13/2017 11:50:07 AM",
+      "timestamp_end": "05/13/2017 11:55:56 AM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "W 95 St & Broadway",
+      "timestamp_duration": "5 min 49 s"
+    },
+    {
+      "timestamp_start": "05/12/2017 7:34:44 PM",
+      "timestamp_end": "05/12/2017 7:37:54 PM",
+      "station_start": "W 106 St & Amsterdam Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "3 min 10 s"
+    },
+    {
+      "timestamp_start": "05/08/2017 7:16:10 AM",
+      "timestamp_end": "05/08/2017 7:33:18 AM",
+      "station_start": "Bond St & Bergen St",
+      "station_end": "Forsyth St & Canal St",
+      "timestamp_duration": "17 min 8 s"
+    },
+    {
+      "timestamp_start": "05/07/2017 6:22:04 PM",
+      "timestamp_end": "05/07/2017 6:23:25 PM",
+      "station_start": "Bond St & Schermerhorn St",
+      "station_end": "Bond St & Bergen St",
+      "timestamp_duration": "1 min 21 s"
+    },
+    {
+      "timestamp_start": "05/07/2017 1:02:03 PM",
+      "timestamp_end": "05/07/2017 1:18:26 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "W 63 St & Broadway",
+      "timestamp_duration": "16 min 23 s"
+    },
+    {
+      "timestamp_start": "05/06/2017 11:12:21 AM",
+      "timestamp_end": "05/06/2017 11:30:37 AM",
+      "station_start": "Madison St & Montgomery St",
+      "station_end": "S 5 Pl & S 4 St",
+      "timestamp_duration": "18 min 16 s"
+    },
+    {
+      "timestamp_start": "05/06/2017 10:38:26 AM",
+      "timestamp_end": "05/06/2017 10:49:43 AM",
+      "station_start": "Lafayette St & Jersey St",
+      "station_end": "Madison St & Montgomery St",
+      "timestamp_duration": "11 min 17 s"
+    },
+    {
+      "timestamp_start": "05/06/2017 10:19:04 AM",
+      "timestamp_end": "05/06/2017 10:30:35 AM",
+      "station_start": "W 14 St & The High Line",
+      "station_end": "Cleveland Pl & Spring St",
+      "timestamp_duration": "11 min 31 s"
+    },
+    {
+      "timestamp_start": "05/06/2017 8:44:36 AM",
+      "timestamp_end": "05/06/2017 9:14:39 AM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "W 14 St & The High Line",
+      "timestamp_duration": "30 min 3 s"
+    },
+    {
+      "timestamp_start": "04/30/2017 11:21:52 AM",
+      "timestamp_end": "04/30/2017 11:31:24 AM",
+      "station_start": "Columbus Ave & W 95 St",
+      "station_end": "Cathedral Pkwy & Broadway",
+      "timestamp_duration": "9 min 32 s"
+    },
+    {
+      "timestamp_start": "04/29/2017 9:23:35 AM",
+      "timestamp_end": "04/29/2017 9:45:34 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "8 Ave & W 33 St",
+      "timestamp_duration": "21 min 59 s"
+    },
+    {
+      "timestamp_start": "04/23/2017 7:29:12 PM",
+      "timestamp_end": "04/23/2017 7:56:06 PM",
+      "station_start": "Clinton Ave & Flushing Ave",
+      "station_end": "Lewis Ave & Decatur St",
+      "timestamp_duration": "26 min 54 s"
+    },
+    {
+      "timestamp_start": "04/23/2017 6:52:22 PM",
+      "timestamp_end": "04/23/2017 7:21:59 PM",
+      "station_start": "Rivington St & Chrystie St",
+      "station_end": "Clinton Ave & Flushing Ave",
+      "timestamp_duration": "29 min 37 s"
+    },
+    {
+      "timestamp_start": "04/23/2017 6:27:34 PM",
+      "timestamp_end": "04/23/2017 6:50:14 PM",
+      "station_start": "Pershing Square South",
+      "station_end": "Rivington St & Chrystie St",
+      "timestamp_duration": "22 min 40 s"
+    },
+    {
+      "timestamp_start": "04/23/2017 5:38:32 PM",
+      "timestamp_end": "04/23/2017 5:58:30 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Pershing Square North",
+      "timestamp_duration": "19 min 58 s"
+    },
+    {
+      "timestamp_start": "04/22/2017 5:10:00 PM",
+      "timestamp_end": "04/22/2017 5:33:30 PM",
+      "station_start": "W 52 St & 5 Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "23 min 30 s"
+    },
+    {
+      "timestamp_start": "04/22/2017 3:19:21 PM",
+      "timestamp_end": "04/22/2017 3:37:08 PM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "W 52 St & 5 Ave",
+      "timestamp_duration": "17 min 47 s"
+    },
+    {
+      "timestamp_start": "04/22/2017 3:01:59 PM",
+      "timestamp_end": "04/22/2017 3:12:04 PM",
+      "station_start": "Amsterdam Ave & W 73 St",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "10 min 5 s"
+    },
+    {
+      "timestamp_start": "04/22/2017 8:55:29 AM",
+      "timestamp_end": "04/22/2017 9:07:36 AM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "W 74 St & Columbus Ave",
+      "timestamp_duration": "12 min 7 s"
+    },
+    {
+      "timestamp_start": "04/21/2017 5:58:19 PM",
+      "timestamp_end": "04/21/2017 6:01:24 PM",
+      "station_start": "W 106 St & Amsterdam Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "3 min 5 s"
+    },
+    {
+      "timestamp_start": "04/20/2017 1:47:02 PM",
+      "timestamp_end": "04/20/2017 2:05:00 PM",
+      "station_start": "E 58 St & 3 Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "17 min 58 s"
+    },
+    {
+      "timestamp_start": "04/20/2017 8:56:37 AM",
+      "timestamp_end": "04/20/2017 9:02:10 AM",
+      "station_start": "Hoyt St & Warren St",
+      "station_end": "Fulton St & Adams St",
+      "timestamp_duration": "5 min 33 s"
+    },
+    {
+      "timestamp_start": "04/19/2017 4:33:16 PM",
+      "timestamp_end": "04/19/2017 5:00:47 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "Greenwich Ave & 8 Ave",
+      "timestamp_duration": "27 min 31 s"
+    },
+    {
+      "timestamp_start": "04/09/2017 8:23:11 PM",
+      "timestamp_end": "04/09/2017 9:17:41 PM",
+      "station_start": "Grand St & Elizabeth St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "54 min 30 s"
+    },
+    {
+      "timestamp_start": "04/09/2017 1:14:41 PM",
+      "timestamp_end": "04/09/2017 1:51:07 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "E 20 St & 2 Ave",
+      "timestamp_duration": "36 min 26 s"
+    },
+    {
+      "timestamp_start": "04/08/2017 12:21:44 PM",
+      "timestamp_end": "04/08/2017 12:44:31 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Broadway & E 22 St",
+      "timestamp_duration": "22 min 47 s"
+    },
+    {
+      "timestamp_start": "04/07/2017 5:45:56 PM",
+      "timestamp_end": "04/07/2017 5:50:07 PM",
+      "station_start": "W 106 St & Amsterdam Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "4 min 11 s"
+    },
+    {
+      "timestamp_start": "04/06/2017 6:49:27 PM",
+      "timestamp_end": "04/06/2017 6:52:28 PM",
+      "station_start": "W 106 St & Amsterdam Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "3 min 1 s"
+    },
+    {
+      "timestamp_start": "04/06/2017 1:34:48 PM",
+      "timestamp_end": "04/06/2017 2:00:11 PM",
+      "station_start": "E 55 St & 3 Ave",
+      "station_end": "Cathedral Pkwy & Broadway",
+      "timestamp_duration": "25 min 23 s"
+    },
+    {
+      "timestamp_start": "04/06/2017 9:49:50 AM",
+      "timestamp_end": "04/06/2017 10:04:07 AM",
+      "station_start": "E 72 St & York Ave",
+      "station_end": "W 52 St & 5 Ave",
+      "timestamp_duration": "14 min 17 s"
+    },
+    {
+      "timestamp_start": "04/06/2017 8:50:28 AM",
+      "timestamp_end": "04/06/2017 9:07:16 AM",
+      "station_start": "Central Park W & W 96 St",
+      "station_end": "E 72 St & York Ave",
+      "timestamp_duration": "16 min 48 s"
+    },
+    {
+      "timestamp_start": "04/05/2017 8:22:56 PM",
+      "timestamp_end": "04/05/2017 8:25:41 PM",
+      "station_start": "W 107 St & Columbus Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "2 min 45 s"
+    },
+    {
+      "timestamp_start": "04/04/2017 5:11:19 PM",
+      "timestamp_end": "04/04/2017 5:40:17 PM",
+      "station_start": "Central Park North & Adam Clayton Powell Blvd",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "28 min 58 s"
+    },
+    {
+      "timestamp_start": "04/04/2017 12:11:55 PM",
+      "timestamp_end": "04/04/2017 12:33:40 PM",
+      "station_start": "W 52 St & 6 Ave",
+      "station_end": "W 106 St & Amsterdam Ave",
+      "timestamp_duration": "21 min 45 s"
+    },
+    {
+      "timestamp_start": "04/04/2017 9:10:18 AM",
+      "timestamp_end": "04/04/2017 9:29:02 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Broadway & W 51 St",
+      "timestamp_duration": "18 min 44 s"
+    },
+    {
+      "timestamp_start": "04/02/2017 6:00:18 PM",
+      "timestamp_end": "04/02/2017 6:03:46 PM",
+      "station_start": "W 95 St & Broadway",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "3 min 28 s"
+    },
+    {
+      "timestamp_start": "04/02/2017 12:09:48 PM",
+      "timestamp_end": "04/02/2017 12:27:21 PM",
+      "station_start": "Douglass St & 3 Ave",
+      "station_end": "Lafayette Ave & St James Pl",
+      "timestamp_duration": "17 min 33 s"
+    },
+    {
+      "timestamp_start": "04/01/2017 7:27:26 PM",
+      "timestamp_end": "04/01/2017 7:52:58 PM",
+      "station_start": "Hoyt St & Warren St",
+      "station_end": "E 11 St & 1 Ave",
+      "timestamp_duration": "25 min 32 s"
+    },
+    {
+      "timestamp_start": "04/01/2017 3:13:25 PM",
+      "timestamp_end": "04/01/2017 3:29:49 PM",
+      "station_start": "Willoughby Ave & Hall St",
+      "station_end": "Court St & State St",
+      "timestamp_duration": "16 min 24 s"
+    },
+    {
+      "timestamp_start": "04/01/2017 10:52:33 AM",
+      "timestamp_end": "04/01/2017 11:05:37 AM",
+      "station_start": "Bond St & Bergen St",
+      "station_end": "Lafayette Ave & St James Pl",
+      "timestamp_duration": "13 min 4 s"
+    },
+    {
+      "timestamp_start": "03/31/2017 6:32:02 PM",
+      "timestamp_end": "03/31/2017 6:38:59 PM",
+      "station_start": "Clark St & Henry St",
+      "station_end": "Bond St & Bergen St",
+      "timestamp_duration": "6 min 57 s"
+    },
+    {
+      "timestamp_start": "03/31/2017 9:27:53 AM",
+      "timestamp_end": "03/31/2017 9:31:35 AM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "W 106 St & Amsterdam Ave",
+      "timestamp_duration": "3 min 42 s"
+    },
+    {
+      "timestamp_start": "03/30/2017 6:05:26 PM",
+      "timestamp_end": "03/30/2017 6:31:57 PM",
+      "station_start": "Central Park North & Adam Clayton Powell Blvd",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "26 min 31 s"
+    },
+    {
+      "timestamp_start": "03/29/2017 8:01:14 PM",
+      "timestamp_end": "03/29/2017 8:24:40 PM",
+      "station_start": "W 43 St & 6 Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "23 min 26 s"
+    },
+    {
+      "timestamp_start": "03/29/2017 7:35:47 PM",
+      "timestamp_end": "03/29/2017 7:50:24 PM",
+      "station_start": "W 14 St & The High Line",
+      "station_end": "W 43 St & 6 Ave",
+      "timestamp_duration": "14 min 37 s"
+    },
+    {
+      "timestamp_start": "03/29/2017 5:25:16 PM",
+      "timestamp_end": "03/29/2017 5:32:00 PM",
+      "station_start": "W 38 St & 8 Ave",
+      "station_end": "W 34 St & 11 Ave",
+      "timestamp_duration": "6 min 44 s"
+    },
+    {
+      "timestamp_start": "03/29/2017 4:34:26 PM",
+      "timestamp_end": "03/29/2017 5:09:42 PM",
+      "station_start": "Cathedral Pkwy & Broadway",
+      "station_end": "W 39 St & 9 Ave",
+      "timestamp_duration": "35 min 16 s"
+    },
+    {
+      "timestamp_start": "03/28/2017 4:58:51 PM",
+      "timestamp_end": "03/28/2017 5:24:48 PM",
+      "station_start": "Central Park North & Adam Clayton Powell Blvd",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "25 min 57 s"
+    },
+    {
+      "timestamp_start": "03/26/2017 11:31:28 PM",
+      "timestamp_end": "03/26/2017 11:33:21 PM",
+      "station_start": "Bond St & Bergen St",
+      "station_end": "Bond St & Schermerhorn St",
+      "timestamp_duration": "1 min 53 s"
+    },
+    {
+      "timestamp_start": "03/26/2017 5:11:49 PM",
+      "timestamp_end": "03/26/2017 5:37:47 PM",
+      "station_start": "Greenwich Ave & Charles St",
+      "station_end": "Bond St & Bergen St",
+      "timestamp_duration": "25 min 58 s"
+    },
+    {
+      "timestamp_start": "03/26/2017 1:30:32 PM",
+      "timestamp_end": "03/26/2017 1:40:14 PM",
+      "station_start": "Broadway & E 22 St",
+      "station_end": "Greenwich Ave & 8 Ave",
+      "timestamp_duration": "9 min 42 s"
+    },
+    {
+      "timestamp_start": "03/24/2017 11:32:51 AM",
+      "timestamp_end": "03/24/2017 11:44:14 AM",
+      "station_start": "Central Park S & 6 Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "11 min 23 s"
+    },
+    {
+      "timestamp_start": "03/24/2017 11:06:07 AM",
+      "timestamp_end": "03/24/2017 11:18:40 AM",
+      "station_start": "E 47 St & 1 Ave",
+      "station_end": "Central Park S & 6 Ave",
+      "timestamp_duration": "12 min 33 s"
+    },
+    {
+      "timestamp_start": "03/24/2017 10:42:27 AM",
+      "timestamp_end": "03/24/2017 10:47:43 AM",
+      "station_start": "E 60 St & York Ave",
+      "station_end": "E 47 St & 1 Ave",
+      "timestamp_duration": "5 min 16 s"
+    },
+    {
+      "timestamp_start": "03/24/2017 8:54:19 AM",
+      "timestamp_end": "03/24/2017 9:16:00 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "E 60 St & York Ave",
+      "timestamp_duration": "21 min 41 s"
+    },
+    {
+      "timestamp_start": "03/23/2017 8:52:00 PM",
+      "timestamp_end": "03/23/2017 9:05:10 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Broadway & W 60 St",
+      "timestamp_duration": "13 min 10 s"
+    },
+    {
+      "timestamp_start": "03/23/2017 6:48:39 PM",
+      "timestamp_end": "03/23/2017 7:18:07 PM",
+      "station_start": "Central Park North & Adam Clayton Powell Blvd",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "29 min 28 s"
+    },
+    {
+      "timestamp_start": "03/22/2017 1:43:50 PM",
+      "timestamp_end": "03/22/2017 1:53:06 PM",
+      "station_start": "E 58 St & 3 Ave",
+      "station_end": "Broadway & W 60 St",
+      "timestamp_duration": "9 min 16 s"
+    },
+    {
+      "timestamp_start": "03/22/2017 9:04:18 AM",
+      "timestamp_end": "03/22/2017 9:25:10 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "E 55 St & 3 Ave",
+      "timestamp_duration": "20 min 52 s"
+    },
+    {
+      "timestamp_start": "03/21/2017 5:00:01 PM",
+      "timestamp_end": "03/21/2017 5:26:28 PM",
+      "station_start": "Central Park North & Adam Clayton Powell Blvd",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "26 min 27 s"
+    },
+    {
+      "timestamp_start": "03/20/2017 9:42:52 PM",
+      "timestamp_end": "03/20/2017 9:45:45 PM",
+      "station_start": "W 106 St & Amsterdam Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "2 min 53 s"
+    },
+    {
+      "timestamp_start": "03/19/2017 10:48:57 PM",
+      "timestamp_end": "03/19/2017 11:09:05 PM",
+      "station_start": "W 54 St & 9 Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "20 min 8 s"
+    },
+    {
+      "timestamp_start": "03/19/2017 2:35:58 PM",
+      "timestamp_end": "03/19/2017 3:01:59 PM",
+      "station_start": "5 Ave & E 78 St",
+      "station_end": "Mercer St & Bleecker St",
+      "timestamp_duration": "26 min 1 s"
+    },
+    {
+      "timestamp_start": "03/19/2017 12:58:51 PM",
+      "timestamp_end": "03/19/2017 1:28:26 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "E 78 St & 2 Ave",
+      "timestamp_duration": "29 min 35 s"
+    },
+    {
+      "timestamp_start": "03/18/2017 3:16:01 PM",
+      "timestamp_end": "03/18/2017 3:23:01 PM",
+      "station_start": "Grand Army Plaza & Plaza St West",
+      "station_end": "Douglass St & 3 Ave",
+      "timestamp_duration": "7 min 0 s"
+    },
+    {
+      "timestamp_start": "03/13/2017 5:53:42 PM",
+      "timestamp_end": "03/13/2017 6:16:10 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "22 min 28 s"
+    },
+    {
+      "timestamp_start": "03/13/2017 5:33:46 PM",
+      "timestamp_end": "03/13/2017 5:37:08 PM",
+      "station_start": "W 106 St & Amsterdam Ave",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "3 min 22 s"
+    },
+    {
+      "timestamp_start": "03/12/2017 3:13:58 PM",
+      "timestamp_end": "03/12/2017 3:26:56 PM",
+      "station_start": "Broadway & W 60 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "12 min 58 s"
+    },
+    {
+      "timestamp_start": "03/10/2017 8:51:16 AM",
+      "timestamp_end": "03/10/2017 8:53:28 AM",
+      "station_start": "Bond St & Bergen St",
+      "station_end": "Bond St & Schermerhorn St",
+      "timestamp_duration": "2 min 12 s"
+    },
+    {
+      "timestamp_start": "03/09/2017 6:12:18 PM",
+      "timestamp_end": "03/09/2017 6:14:48 PM",
+      "station_start": "Bond St & Schermerhorn St",
+      "station_end": "Bond St & Bergen St",
+      "timestamp_duration": "2 min 30 s"
+    },
+    {
+      "timestamp_start": "03/09/2017 4:25:22 PM",
+      "timestamp_end": "03/09/2017 4:52:41 PM",
+      "station_start": "Central Park North & Adam Clayton Powell Blvd",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "27 min 19 s"
+    },
+    {
+      "timestamp_start": "03/08/2017 7:13:41 PM",
+      "timestamp_end": "03/08/2017 7:26:43 PM",
+      "station_start": "Grand Army Plaza & Plaza St West",
+      "station_end": "Warren St & Court St",
+      "timestamp_duration": "13 min 2 s"
+    },
+    {
+      "timestamp_start": "03/07/2017 5:55:57 PM",
+      "timestamp_end": "03/07/2017 6:00:42 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "W 82 St & Central Park West",
+      "timestamp_duration": "4 min 45 s"
+    },
+    {
+      "timestamp_start": "03/07/2017 4:55:49 PM",
+      "timestamp_end": "03/07/2017 5:23:17 PM",
+      "station_start": "Central Park North & Adam Clayton Powell Blvd",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "27 min 28 s"
+    },
+    {
+      "timestamp_start": "03/07/2017 4:55:23 PM",
+      "timestamp_end": "03/07/2017 4:55:32 PM",
+      "station_start": "Central Park North & Adam Clayton Powell Blvd",
+      "station_end": "Central Park North & Adam Clayton Powell Blvd",
+      "timestamp_duration": "0 min 9 s"
+    },
+    {
+      "timestamp_start": "03/05/2017 7:27:48 PM",
+      "timestamp_end": "03/05/2017 7:29:10 PM",
+      "station_start": "Bond St & Bergen St",
+      "station_end": "Bond St & Schermerhorn St",
+      "timestamp_duration": "1 min 22 s"
+    },
+    {
+      "timestamp_start": "03/04/2017 3:48:24 PM",
+      "timestamp_end": "03/04/2017 3:59:14 PM",
+      "station_start": "Grand Army Plaza & Plaza St West",
+      "station_end": "3 St & 3 Ave",
+      "timestamp_duration": "10 min 50 s"
+    },
+    {
+      "timestamp_start": "03/04/2017 1:09:23 PM",
+      "timestamp_end": "03/04/2017 1:17:27 PM",
+      "station_start": "Douglass St & 3 Ave",
+      "station_end": "Plaza St West & Flatbush Ave",
+      "timestamp_duration": "8 min 4 s"
+    },
+    {
+      "timestamp_start": "03/03/2017 8:26:20 AM",
+      "timestamp_end": "03/03/2017 9:06:13 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Fulton St & Broadway",
+      "timestamp_duration": "39 min 53 s"
+    },
+    {
+      "timestamp_start": "02/28/2017 5:04:26 PM",
+      "timestamp_end": "02/28/2017 5:29:57 PM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "25 min 31 s"
+    },
+    {
+      "timestamp_start": "02/27/2017 12:26:01 AM",
+      "timestamp_end": "02/27/2017 12:29:06 AM",
+      "station_start": "W 100 St & Broadway",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "3 min 5 s"
+    },
+    {
+      "timestamp_start": "02/26/2017 8:43:41 PM",
+      "timestamp_end": "02/26/2017 8:47:59 PM",
+      "station_start": "W 100 St & Manhattan Ave",
+      "station_end": "W 100 St & Broadway",
+      "timestamp_duration": "4 min 18 s"
+    },
+    {
+      "timestamp_start": "02/26/2017 1:47:14 PM",
+      "timestamp_end": "02/26/2017 1:53:23 PM",
+      "station_start": "Fulton St & William St",
+      "station_end": "Water - Whitehall Plaza",
+      "timestamp_duration": "6 min 9 s"
+    },
+    {
+      "timestamp_start": "02/25/2017 3:07:46 PM",
+      "timestamp_end": "02/25/2017 3:31:33 PM",
+      "station_start": "St Marks Pl & 2 Ave",
+      "station_end": "W 26 St & 8 Ave",
+      "timestamp_duration": "23 min 47 s"
+    },
+    {
+      "timestamp_start": "02/25/2017 11:55:21 AM",
+      "timestamp_end": "02/25/2017 12:38:04 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "St Marks Pl & 2 Ave",
+      "timestamp_duration": "42 min 43 s"
+    },
+    {
+      "timestamp_start": "02/25/2017 10:38:18 AM",
+      "timestamp_end": "02/25/2017 11:03:19 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "W 100 St & Manhattan Ave",
+      "timestamp_duration": "25 min 1 s"
+    },
+    {
+      "timestamp_start": "02/12/2017 4:10:33 PM",
+      "timestamp_end": "02/12/2017 4:27:29 PM",
+      "station_start": "9 Ave & W 45 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "16 min 56 s"
+    },
+    {
+      "timestamp_start": "02/12/2017 1:33:43 PM",
+      "timestamp_end": "02/12/2017 1:54:11 PM",
+      "station_start": "Central Park W & W 96 St",
+      "station_end": "9 Ave & W 45 St",
+      "timestamp_duration": "20 min 28 s"
+    },
+    {
+      "timestamp_start": "02/11/2017 8:57:49 PM",
+      "timestamp_end": "02/11/2017 9:18:16 PM",
+      "station_start": "Douglass St & 3 Ave",
+      "station_end": "Myrtle Ave & Lewis Ave",
+      "timestamp_duration": "20 min 27 s"
+    },
+    {
+      "timestamp_start": "02/10/2017 3:58:03 PM",
+      "timestamp_end": "02/10/2017 4:19:01 PM",
+      "station_start": "W 41 St & 8 Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "20 min 58 s"
+    },
+    {
+      "timestamp_start": "02/06/2017 8:01:13 AM",
+      "timestamp_end": "02/06/2017 8:03:16 AM",
+      "station_start": "Bond St & Bergen St",
+      "station_end": "Bond St & Schermerhorn St",
+      "timestamp_duration": "2 min 3 s"
+    },
+    {
+      "timestamp_start": "02/05/2017 10:25:16 PM",
+      "timestamp_end": "02/05/2017 10:26:43 PM",
+      "station_start": "Bond St & Schermerhorn St",
+      "station_end": "Bond St & Bergen St",
+      "timestamp_duration": "1 min 27 s"
+    },
+    {
+      "timestamp_start": "02/05/2017 10:06:48 PM",
+      "timestamp_end": "02/05/2017 10:08:51 PM",
+      "station_start": "Bond St & Bergen St",
+      "station_end": "Bond St & Schermerhorn St",
+      "timestamp_duration": "2 min 3 s"
+    },
+    {
+      "timestamp_start": "02/03/2017 6:08:32 PM",
+      "timestamp_end": "02/03/2017 6:31:26 PM",
+      "station_start": "Rivington St & Chrystie St",
+      "station_end": "Hoyt St & Warren St",
+      "timestamp_duration": "22 min 54 s"
+    },
+    {
+      "timestamp_start": "02/03/2017 5:35:33 PM",
+      "timestamp_end": "02/03/2017 6:03:07 PM",
+      "station_start": "E 58 St & 3 Ave",
+      "station_end": "Rivington St & Chrystie St",
+      "timestamp_duration": "27 min 34 s"
+    },
+    {
+      "timestamp_start": "02/03/2017 5:00:47 PM",
+      "timestamp_end": "02/03/2017 5:19:32 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "E 58 St & 3 Ave",
+      "timestamp_duration": "18 min 45 s"
+    },
+    {
+      "timestamp_start": "01/29/2017 9:52:07 AM",
+      "timestamp_end": "01/29/2017 10:09:11 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Central Park S & 6 Ave",
+      "timestamp_duration": "17 min 4 s"
+    },
+    {
+      "timestamp_start": "01/28/2017 11:36:34 PM",
+      "timestamp_end": "01/28/2017 11:49:39 PM",
+      "station_start": "W 63 St & Broadway",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "13 min 5 s"
+    },
+    {
+      "timestamp_start": "01/28/2017 5:15:24 PM",
+      "timestamp_end": "01/28/2017 5:40:39 PM",
+      "station_start": "Mercer St & Spring St",
+      "station_end": "E 39 St & 3 Ave",
+      "timestamp_duration": "25 min 15 s"
+    },
+    {
+      "timestamp_start": "01/28/2017 1:00:36 PM",
+      "timestamp_end": "01/28/2017 1:22:36 PM",
+      "station_start": "W 44 St & 5 Ave",
+      "station_end": "E 11 St & 2 Ave",
+      "timestamp_duration": "22 min 0 s"
+    },
+    {
+      "timestamp_start": "01/28/2017 10:31:10 AM",
+      "timestamp_end": "01/28/2017 10:51:30 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "W 52 St & 5 Ave",
+      "timestamp_duration": "20 min 20 s"
+    },
+    {
+      "timestamp_start": "01/27/2017 10:43:51 PM",
+      "timestamp_end": "01/27/2017 11:00:33 PM",
+      "station_start": "Central Park S & 6 Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "16 min 42 s"
+    },
+    {
+      "timestamp_start": "01/27/2017 5:09:31 PM",
+      "timestamp_end": "01/27/2017 5:31:33 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "W 37 St & 5 Ave",
+      "timestamp_duration": "22 min 2 s"
+    },
+    {
+      "timestamp_start": "01/26/2017 10:26:34 PM",
+      "timestamp_end": "01/26/2017 10:42:04 PM",
+      "station_start": "8 Ave & W 52 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "15 min 30 s"
+    },
+    {
+      "timestamp_start": "01/26/2017 7:15:44 PM",
+      "timestamp_end": "01/26/2017 7:22:13 PM",
+      "station_start": "8 Ave & W 33 St",
+      "station_end": "9 Ave & W 45 St",
+      "timestamp_duration": "6 min 29 s"
+    },
+    {
+      "timestamp_start": "01/26/2017 4:31:51 PM",
+      "timestamp_end": "01/26/2017 5:05:57 PM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "E 11 St & 1 Ave",
+      "timestamp_duration": "34 min 6 s"
+    },
+    {
+      "timestamp_start": "01/26/2017 11:05:14 AM",
+      "timestamp_end": "01/26/2017 11:27:13 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "Broadway & W 60 St",
+      "timestamp_duration": "21 min 59 s"
+    },
+    {
+      "timestamp_start": "01/19/2017 11:35:47 PM",
+      "timestamp_end": "01/19/2017 11:44:15 PM",
+      "station_start": "E 97 St & 3 Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "8 min 28 s"
+    },
+    {
+      "timestamp_start": "01/16/2017 8:22:31 PM",
+      "timestamp_end": "01/16/2017 8:49:24 PM",
+      "station_start": "Greenwich Ave & 8 Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "26 min 53 s"
+    },
+    {
+      "timestamp_start": "01/16/2017 2:02:13 PM",
+      "timestamp_end": "01/16/2017 2:12:52 PM",
+      "station_start": "W 42 St & 8 Ave",
+      "station_end": "W 22 St & 8 Ave",
+      "timestamp_duration": "10 min 39 s"
+    },
+    {
+      "timestamp_start": "01/16/2017 1:51:45 PM",
+      "timestamp_end": "01/16/2017 1:56:13 PM",
+      "station_start": "W 42 St & Dyer Ave",
+      "station_end": "W 42 St & Dyer Ave",
+      "timestamp_duration": "4 min 28 s"
+    },
+    {
+      "timestamp_start": "01/16/2017 11:59:46 AM",
+      "timestamp_end": "01/16/2017 12:08:08 PM",
+      "station_start": "E 40 St & 5 Ave",
+      "station_end": "W 43 St & 10 Ave",
+      "timestamp_duration": "8 min 22 s"
+    },
+    {
+      "timestamp_start": "01/16/2017 10:40:04 AM",
+      "timestamp_end": "01/16/2017 11:05:56 AM",
+      "station_start": "Central Park West & W 102 St",
+      "station_end": "E 40 St & 5 Ave",
+      "timestamp_duration": "25 min 52 s"
+    },
+    {
+      "timestamp_start": "01/15/2017 11:23:29 AM",
+      "timestamp_end": "01/15/2017 11:29:58 AM",
+      "station_start": "W 84 St & Columbus Ave",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "6 min 29 s"
+    },
+    {
+      "timestamp_start": "01/15/2017 10:31:31 AM",
+      "timestamp_end": "01/15/2017 10:39:44 AM",
+      "station_start": "Central Park West & W 100 St",
+      "station_end": "W 76 St & Columbus Ave",
+      "timestamp_duration": "8 min 13 s"
+    },
+    {
+      "timestamp_start": "01/14/2017 12:02:18 PM",
+      "timestamp_end": "01/14/2017 12:07:27 PM",
+      "station_start": "Central Park West & W 102 St",
+      "station_end": "Central Park North & Adam Clayton Powell Blvd",
+      "timestamp_duration": "5 min 9 s"
+    },
+    {
+      "timestamp_start": "01/13/2017 6:53:04 PM",
+      "timestamp_end": "01/13/2017 7:15:25 PM",
+      "station_start": "1 Ave & E 68 St",
+      "station_end": "Central Park West & W 100 St",
+      "timestamp_duration": "22 min 21 s"
+    },
+    {
+      "timestamp_start": "01/13/2017 3:26:50 PM",
+      "timestamp_end": "01/13/2017 3:38:12 PM",
+      "station_start": "E 40 St & 5 Ave",
+      "station_end": "1 Ave & E 68 St",
+      "timestamp_duration": "11 min 22 s"
+    },
+    {
+      "timestamp_start": "01/13/2017 11:08:21 AM",
+      "timestamp_end": "01/13/2017 11:33:18 AM",
+      "station_start": "Central Park West & W 102 St",
+      "station_end": "Pershing Square North",
+      "timestamp_duration": "24 min 57 s"
+    }
+  ]
